@@ -1,5 +1,4 @@
-INSTRUCTIONS:
-
+-This is an javascript implementations of the classic pacman game.
 
 
 CONTROLS: ARROW-UP-DOWN-LEFT-RIGHT
@@ -8,6 +7,7 @@ CONTROLS: ARROW-UP-DOWN-LEFT-RIGHT
 GOAL: GET A HIGHER SCORE THAN GHOSTS, BY CONSUMING A POWERDOT AND THEN EATING GHOSTS.
 
 A.R.
+![pacman game](https://user-images.githubusercontent.com/23560627/56739173-aa101e00-6748-11e9-87c6-3b8938d584d1.JPG)
 
 
 
